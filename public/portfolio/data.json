@@ -1,0 +1,30 @@
+[
+	{
+		"name": "Club Dare",
+		"description": "Une boîte de nuit virtuelle",
+		"image": "https://cdn.discordapp.com/attachments/555402600640413713/1011304230172246016/icon.png",
+		"link": "https://club-dare.djredstone.repl.co",
+		"repositoryLink": "https://github.com/DjRedstone/club-dare"
+	},
+	{
+		"name": "Nosto",
+		"description": "Un serveur Minecraft original",
+		"image": "https://cdn.discordapp.com/attachments/555402600640413713/1011305919872770058/nosto.png",
+		"link": "https://discord.io/Nosto",
+		"repositoryLink": "https://github.com/nostoMC"
+	},
+	{
+		"name": "Game Finder",
+		"description": "Un site web permettant de trouver facilement un jeu de société à jouer",
+		"image": "https://raw.githubusercontent.com/DjRedstone/game-finder/main/public/logo.png",
+		"link": "https://game-finder.djredstone.repl.co",
+		"repositoryLink": "https://github.com/DjRedstone/game-finder"
+	},
+	{
+		"name": "Game Helper",
+		"description": "Un site web permettant de gérer plus facilement certains jeux de sociétés",
+		"image": "https://raw.githubusercontent.com/DjRedstone/game-helper/main/utils/logo.png",
+		"link": "https://djredstone.github.io/game-helper/",
+		"repositoryLink": "https://github.com/DjRedstone/game-helper"
+	}
+]

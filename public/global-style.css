@@ -1,0 +1,43 @@
+@font-face {
+    font-family: "Lemon/Milk";
+    src: url("../public/font.otf") format("opentype");
+}
+
+body {
+  font-variant: small-caps;
+  font-family: 'Lemon/Milk', serif;
+  color: white;
+	background: #56CFE1;
+}
+
+.link {
+  color: #ccf9ff;
+	cursor: pointer;
+  text-decoration: underline rgba(255, 255, 255, 0);
+  transition: 0.25s ease;
+}
+  .link:hover {
+  text-decoration-color: rgba(255, 255, 255, 1);
+}
+
+br {
+	display: block;
+	content: "";
+	margin-top: 150px;
+}
+
+.infos {
+	text-align: center;
+  font-size: 200%;
+}
+.form {
+  margin: auto;
+  text-align: center;
+  width: 100%;
+  max-width: 1000px;
+  background-color: #48BFE3;
+  backdrop-filter: blur(5px);
+  border: 2px solid white;
+  border-radius: 25px;
+  padding: 2% 2%;
+}

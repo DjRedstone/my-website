@@ -1,0 +1,42 @@
+#projects {
+	display: grid;
+	grid-gap: 20px;
+}
+.project {
+	display: grid;
+	grid-template: 	"a b" 35%
+									"a c" 35%
+									"a d" 15%
+									"a e" 15%;
+	grid-template-columns: 250px auto;
+	margin: auto;
+  text-align: center;
+  width: 100%;
+  max-width: 1000px;
+	height: 250px;
+	background-color: #48BFE3;
+	border: 3px solid white;
+	border-radius: 30px;
+	justify-items: center;
+  align-items: center;
+	padding: 1% 1%;
+	font-size: 1.75em;
+}
+.project-img {
+	grid-area: a;
+	width: 250px;
+	height: 250px;
+}
+.project-title {
+	grid-area: b;
+}
+.project-description {
+	width: 500px;
+	grid-area: c;
+}
+.project-link {
+	grid-area: d;
+}
+.project-repository-link {
+	grid-area: e;
+}
