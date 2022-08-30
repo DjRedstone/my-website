@@ -1,0 +1,22 @@
+[
+    {
+        "year": "2005",
+        "description": "Naissance juste avant le réveillon",
+        "icon": "https://api.iconify.design/icon-park-solid:baby-one.svg"
+    },
+    {
+        "year": "2019",
+        "description": "Stage d'observation en entreprise (web design)",
+        "icon": "https://api.iconify.design/material-symbols:work.svg"
+    },
+    {
+        "year": "2020",
+        "description": "Obtention du diplôme national du brevet avec mention très bien",
+        "icon": "https://api.iconify.design/ic:twotone-school.svg"
+    },
+    {
+        "year": "2021",
+        "description": "Premiers commits GitHub",
+        "icon": "https://api.iconify.design/mdi:github.svg"
+    }
+]

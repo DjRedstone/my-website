@@ -30,6 +30,12 @@ app.get('/about-me/', function(req, res) {
 app.get("/about-me/style.css", (req, res) => {
 	res.sendFile(path.join(__dirname, "public/about-me/style.css"));
 });
+app.get("/about-me/client.js", (req, res) => {
+  res.sendFile(path.join(__dirname, "public/about-me/client.js"));
+});
+app.get("/about-me/data.json", (req, res) => {
+  res.sendFile(path.join(__dirname, "public/about-me/data.json"));
+});
 
 app.get('/portfolio/', function(req, res) {
   res.sendFile(path.join(__dirname, '/public/portfolio/index.html'));
